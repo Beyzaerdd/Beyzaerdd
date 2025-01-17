@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Beyza</h2>
+<h1 align="center">Hi 👋, I'm Beyza Erdoğmuş</h1>
 <h2 align="center">👨‍💻 About Me</h2>
 
 
